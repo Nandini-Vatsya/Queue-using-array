@@ -17,3 +17,5 @@ To implement a queue using an array, <br>
 ![image](https://user-images.githubusercontent.com/125802204/234173572-3073a47e-e125-43cc-b3cb-96961f75499b.png)
 <br>
 <b><ins> Output </b></ins>
+<br>
+<img width="599" alt="Queue using array" src="https://user-images.githubusercontent.com/125802204/234174393-529ae8b2-2fe0-4eb6-9d0b-86d2f33d4dc0.png">
